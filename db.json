@@ -1,0 +1,13 @@
+[
+{"type":"header","version":"4.7.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"ssgmce"},
+{"type":"table","name":"shopping mart","database":"ssgmce","data":
+[
+{"S.No":"1","Product Name":"Sugar","RFID Code":"12345","Price":"50"},
+{"S.No":"2","Product Name":"wheat","RFID Code":"12348","Price":"100"},
+{"S.No":"3","Product Name":"Soap","RFID Code":"12346","Price":"20"},
+{"S.No":"4","Product Name":"Paste","RFID Code":"12347","Price":"60"},
+{"S.No":"5","Product Name":"Total","RFID Code":"0","Price":"230"}
+]
+}
+]
